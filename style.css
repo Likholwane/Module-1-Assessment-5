@@ -1,0 +1,44 @@
+.gallery img {
+	width: 100%;
+}
+
+h2{
+	font-family: Impact , fantasy;
+   text-align: center;
+	color: darkred;
+	font-size: 35px;
+	font-style: oblique;
+}
+
+h4{
+	font-family: Impact , fantasy;
+	font-size: 25px;
+	font-style: oblique;
+	color: darkred;
+}
+
+p{
+	font-family: inherit, sans-serif;
+}
+
+#menu{
+	width:100%;
+	height:40px;
+	background-color: black;
+	padding-top: 12px;
+}
+
+#menu a{
+	color: lightblue;
+	font-family: inherit, sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: 800;
+	
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#menu a:hover{
+	color: maroon;
+}
